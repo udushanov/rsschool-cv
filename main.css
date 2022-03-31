@@ -33,3 +33,160 @@ body {
   display: flex;
 }
 
+.profile__photo {
+  width: 100px;
+  height: auto;
+  border: 5px solid #404040;
+  border-radius: 2px;
+  margin-right: 30px;
+  margin-bottom: 50px;
+}
+
+.name {
+  margin-bottom: 40px;
+  font-weight: 500;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+.cv__flex {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.icon {
+  color: #404040;
+  background-color: #fff;
+  border-radius: 50%;
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.logo {
+  color: #fff;
+  background-color: #0099ff;
+  border-radius: 50%;
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.cv__content {
+  padding-bottom: 40px;
+}
+
+.cv__content:last-child {
+  padding-bottom: 0px;
+}
+
+.cv__title {
+  font-weight: 500;
+  font-style: italic;
+  text-transform: uppercase;
+  margin: 0;  
+}
+
+.cv__descr {
+  max-width: 400px;
+  margin: 0;
+}
+
+.project__link {
+  color: #fff;
+  transition: color 0.2s linear;
+}
+
+.project__link:hover {
+  color: #0099ff;  
+}
+
+project__link:active {
+  color: #0099ff;
+}
+
+.contact__link {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.2s linear;
+}
+
+.contact__link:hover {
+  color: #404040;
+}
+
+.contact__link:active {
+  color: #404040;
+}
+
+.person__list {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.person__item {
+  display: inline-block;
+  flex-wrap: wrap;
+  background-color: #404040;
+  border-radius: 5px;
+  padding: 4px 8px;
+  margin-right: 5px;
+  margin-bottom: 10px
+}
+
+.skill__list {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.skill__item {
+  display: inline-block;
+  flex-wrap: wrap;
+  background-color: #0099ff;
+  border-radius: 5px;
+  padding: 4px 8px;
+  margin-right: 5px;
+  margin-bottom: 10px
+}
+
+.course__item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.check {
+  color: #0099ff;
+  margin-right: 5px;
+}
+
+.language__item {
+  display: flex;
+  align-items: center;
+}
+
+.language__text__first {
+  margin-right: 20px;
+}
+
+.language__text__second {
+  margin-right: 25px;
+}
+
+.language__progress {
+  padding-top: 6px;
+}
+
+.material-icons__progress {
+  font-size: 22px;
+}
+
+.fill {
+  color: #0099ff;
+}
+
+.stroke {
+  color: #0099ff;
+  opacity: 0.2;
+}
