@@ -1,0 +1,35 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: #fff;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.container {
+  max-width: 890px;
+  padding: 0 30px;
+  margin: 0 auto;
+}
+
+.cv {
+  display: flex;
+  justify-content: center;
+}
+
+.cv__row {
+  padding: 50px 30px;
+}
+
+.first {
+  background-color: #0099ff;
+}
+
+.second {
+  background-color: #404040;
+}
+
+.cv__col {
+  display: flex;
+}
+
