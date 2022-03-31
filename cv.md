@@ -37,3 +37,28 @@ Because developing something from scratch is very cool.
 - Result school by Vladilen Minin: JavaScript Front-End Developer
 
 - Studying in RS School: stage#1
+
+
+## Projects
+
+https://github.com/udushanov/Javascript-course.git
+
+
+## Hard skills
+
+`HTML/Markdown` `CSS/Bootstrap` ` Sass/Less` `JavaScript` `Git/GitHub` `Webpack/Gulp` `CMS Wordpress/Joomla`
+
+
+## Experience
+
+Missing production experience
+
+
+## Languages
+
+```
+
+Russian *****
+English **
+
+```
